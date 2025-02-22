@@ -9,5 +9,5 @@ phases:
       - echo Build complete success
 artifacts:
   files:
-    - target/*.jar
+    - target/aws-CodePipeLine-0.0.1-SNAPSHOT.jar
   discard-paths: yes
